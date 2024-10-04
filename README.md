@@ -30,7 +30,7 @@ Navigate into its directory in the terminal, then run `code .` to open the files
 in Visual Studio Code.
 
 Go ahead and run the tests. You'll see that you need to create two functions to
-get the tests passing: `moveDodgerLeft()` and `moveDodgerRight()`. We'll write
+get the tests passing: `oveDodgerLeftm()` and `moveDodgerRight()`. We'll write
 `moveDodgerLeft()` together, then you'll create `moveDodgerRight()` on your own.
 
 ## Practice Moving Elements on the Page
